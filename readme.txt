@@ -10,7 +10,7 @@ This plugin makes your Wordpress blog friendly to Instapaper!
 
 == Description ==
 
-Instapaper Friendly uses the [Instapaper Publisher guidelines](http://www.instapaper.com/publishers) to ensure that when a user saves your content to Instapaper, the content is saved correctly.
+Instapaper Friendly uses the [Instapaper Publisher guidelines](http://www.instapaper.com/publishers) to ensure that when a user saves your content to Instapaper, the content is saved correctly. It removes comments and other junk for Instapaper users.
 
 == Installation ==
 
@@ -24,6 +24,10 @@ Instapaper Friendly uses the [Instapaper Publisher guidelines](http://www.instap
 * First version! Yessss.
 
 == Frequently Asked Questions ==
+
+== I'm 12 years old and what is this? ==
+
+A Wordpress plugin to make your blog Instapaper Friendly!
 
 = What does this plugin do? =
 
